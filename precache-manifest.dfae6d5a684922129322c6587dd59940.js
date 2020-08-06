@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1f72dc8b514fd3d357df6e9c391a777",
+    "revision": "50b40ddc8841b9237329e5472c2d036f",
     "url": "/Astronomia-Advance/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Astronomia-Advance/static/css/4.341c5ad7.chunk.css"
   },
   {
-    "revision": "20d616a7d85d8c2e1f0c",
+    "revision": "8a337e38c39d04a5caa8",
     "url": "/Astronomia-Advance/static/css/main.4aedc49e.chunk.css"
   },
   {
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Astronomia-Advance/static/js/9.42f44577.chunk.js"
   },
   {
-    "revision": "20d616a7d85d8c2e1f0c",
-    "url": "/Astronomia-Advance/static/js/main.0e74d750.chunk.js"
+    "revision": "8a337e38c39d04a5caa8",
+    "url": "/Astronomia-Advance/static/js/main.6b174405.chunk.js"
   },
   {
     "revision": "615854170264ad926303",
